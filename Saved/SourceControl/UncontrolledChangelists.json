@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/caitl/Documents/Unreal Projects/ConstructionJam/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/caitl/Documents/Unreal Projects/ConstructionJam/Content/BP_FallingObject.uasset",
+				"C:/Users/caitl/Documents/Unreal Projects/ConstructionJam/Content/UI/BP_HealthBar.uasset",
 				"C:/Users/dg008/OneDrive/Documents/Unreal Projects/ConstructionJam/245JammedRepo/Content/BP_FallingObject.uasset",
 				"C:/Users/dg008/OneDrive/Documents/Unreal Projects/ConstructionJam/245JammedRepo/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/dg008/OneDrive/Documents/Unreal Projects/ConstructionJam/245JammedRepo/Content/THISISTHERIGHTLEVEL.umap"
