@@ -4,7 +4,10 @@
 		{
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
-			"files": []
+			"files": [
+				"C:/Users/tcrev/OneDrive/Documents/Game Jam/245JammedRepo/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/tcrev/OneDrive/Documents/Game Jam/245JammedRepo/Content/THISISTHERIGHTLEVEL.umap"
+			]
 		}
 	]
 }
